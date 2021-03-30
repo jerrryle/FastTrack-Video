@@ -1,5 +1,5 @@
 <!-- TODO: Update title -->
-# DocsifyJS Template
+# VisionTree <br> Features Guide
 
 [![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
 
