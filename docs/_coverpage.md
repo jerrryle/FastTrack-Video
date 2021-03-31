@@ -1,5 +1,5 @@
 <!-- TODO: Update title -->
-# VisionTree <br> Features Guide
+# VisionTree <br> FastTrack Video
 
 [![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
 
